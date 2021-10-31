@@ -43,8 +43,15 @@ use case of home water tank was built.
   Raspberry pi zero - For getting the sensor data
   Raspberry pi 4 - To control relay & power supply
   
-
-The process flow of the system is as follows:
+  ```
+  
+ 
+<h3 align="left"> The process flow of the system is as follows  
+  
+<p align="center">
+  <img width="700" src="https://user-images.githubusercontent.com/74568334/139573044-4166cd12-dad4-45bb-a486-1a7ebd89f7e0.jpg">
+</p>
+  
 
 3. For enabling water level and DHT11 sensor streamingtime-seriesdata,Influx DB was 
 used.
