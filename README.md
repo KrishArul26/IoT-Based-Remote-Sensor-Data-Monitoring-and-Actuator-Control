@@ -1,9 +1,12 @@
-<h2 align="center"> IOT-BASED-REMOTE-SENSOR-DATA-MONITORING-AND-ACTUATOR-CONTROL</h2>
+<h2 align="center"> IOT-BASED-REMOTE-SENSOR-DATA-MONITORING-AND-ACTUATOR-CONTROL
+  </h2>
+
 
 <h3 align="left">System Implementation for the Water Tank Example
   
   </h3>
   
+
 
 <p align="center">
   <img width="600" src="https://user-images.githubusercontent.com/74568334/139572476-985d0a61-1e2c-423e-85cb-359b29437cdc.png">
@@ -81,11 +84,6 @@ use case of home water tank was built.
 <p align="center">
   <img width="1500" src="https://user-images.githubusercontent.com/74568334/139573143-c6fdee30-5c51-4021-abb5-1040a6ec902c.jpg">
 </p>
-  
-  <h3 align="left"> 
-  
-  The above picture illustrates the monitoring system of the water level in a smart home network. Water  level sensor and DHT11 sensor are connected to Raspberry pi zero.Firstly, Raspberry-pi Zero is gathered streaming data from DHT11 – sensor, the water level – sensor and the ultrasonic sensor. Which values are converted to the action or messages and Those messages are published to the MQTT – Protocol to a particular topic. Next, RaspberryPi- 4 is giving a request to the MQTT protocol in order to get sensor values that are published by Raspberrypi Zero. Moreover, According to the message relay is handled by RaspberryPi- 4 in order to manage the power supply for the motor as well as Raspberry pi- 4 push data and message into the InfluxDB. After that,  Grafana is connected with InfluxDB to do data visualization. 
-</h3> 
- 
 
+ <p style= 'text-align: justify;'> The above picture illustrates the monitoring system of the water level in a smart home network. Water  level sensor and DHT11 sensor are connected to Raspberry pi zero.Firstly, Raspberry-pi Zero is gathered streaming data from DHT11 – sensor, the water level – sensor and the ultrasonic sensor. Which values are converted to the action or messages and Those messages are published to the MQTT – Protocol to a particular topic. Next, RaspberryPi- 4 is giving a request to the MQTT protocol in order to get sensor values that are published by Raspberrypi Zero. Moreover, According to the message relay is handled by RaspberryPi- 4 in order to manage the power supply for the motor as well as Raspberry pi- 4 push data and message into the InfluxDB. After that,  Grafana is connected with InfluxDB to do data visualization.</p>
 
