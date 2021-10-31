@@ -49,7 +49,7 @@ use case of home water tank was built.
 <h3 align="left"> The process flow of the system is as follows  
   
 <p align="center">
-  <img width="700" src="https://user-images.githubusercontent.com/74568334/139573044-4166cd12-dad4-45bb-a486-1a7ebd89f7e0.jpg">
+  <img width="1000" src="https://user-images.githubusercontent.com/74568334/139573143-c6fdee30-5c51-4021-abb5-1040a6ec902c.jpg">
 </p>
   
 
