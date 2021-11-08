@@ -12,28 +12,19 @@
   <img width="600" src="https://user-images.githubusercontent.com/74568334/139572476-985d0a61-1e2c-423e-85cb-359b29437cdc.png">
 </p> 
 
-<h3 align="left">Introduction 
-  
-</h3>
-  
-<h4 align="left">As the current housing systems are moving towards automation, the focus on the systems used within the house is given more focus than the customer requirement. The systems available in the current market are complex and expensive. The objective of the “IoT based remote sensor data monitoring and actuator control” project is to create a partial open-source monitoring system that can be customized based on the individual requirements of the customer which is cheaper than the available market alternatives and user-friendly.
-  
-</h4>
+<h3 align="left">Introduction </h3>
+
+<p style= 'text-align: justify;'> >As the current housing systems are moving towards automation, the focus on the systems used within the house is given more focus than the customer requirement. The systems available in the current market are complex and expensive. The objective of the “IoT based remote sensor data monitoring and actuator control” project is to create a partial open-source monitoring system that can be customized based on the individual requirements of the customer which is cheaper than the available market alternatives and user-friendly.</p>
   
  
-<h3 align="left">Componentes Used for this Project
-  
-</h3>
+<h3 align="left">Componentes Used for this Project </h3>
 
   
 <p align="center">
   <img width="700" src="https://user-images.githubusercontent.com/74568334/139572612-0775d268-d47c-4a05-85b3-2cf1852a10f6.jpg">
 </p>
   
-<h3 align="left">Sensors Used for this Project
-  
-  
-</h3>
+<h3 align="left">Sensors Used for this Project </h3>
   
 <p align="center">
   <img width="700" src="https://user-images.githubusercontent.com/74568334/139572621-58d85a6d-d550-470b-9b62-968ebccbcfb7.jpg">
