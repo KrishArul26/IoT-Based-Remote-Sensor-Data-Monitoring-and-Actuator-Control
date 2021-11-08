@@ -30,14 +30,9 @@
   <img width="700" src="https://user-images.githubusercontent.com/74568334/139572621-58d85a6d-d550-470b-9b62-968ebccbcfb7.jpg">
 </p>
   
-<h3 align="center">Process Explaination and Usage of Components
-  
-</h3>
+<h3 align="center">Process Explaination and Usage of Components </h3>
 
-
-<h3 align="left"> 
-  Since this monitoring system can be used for various applications, it is difficult to reproduce every possible scenario. Hence the prototype for the 
-use case of home water tank was built. 
+<p style= 'text-align: justify;'>  Since this monitoring system can be used for various applications, it is difficult to reproduce every possible scenario. Hence the prototype for the use case of home water tank was built.</p>
 
 </h3>
 
