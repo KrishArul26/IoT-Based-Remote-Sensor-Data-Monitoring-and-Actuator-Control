@@ -1,4 +1,4 @@
-<h2 align="center"> IoT-BASED-REMOTE-SENSOR-DATA-MONITORING-AND-ACTUATOR-CONTROL
+<h2 align="center"> IoT-Based-Remote-Sensor-Data-Monitoring-and-Actuator-Control
 </h2>
 
 
